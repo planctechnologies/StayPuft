@@ -1,7 +1,6 @@
 # StayPuft
 
 A fork of Casper, the default theme for [Ghost](https://github.com/tryghost/ghost/).
-This is a test.
 
 ## Features
 
